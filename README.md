@@ -74,7 +74,7 @@ device:
 ### Execution
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yss-ef/flutter-interactive-portfolio.git
+    git clone git@github.com:ind4x/flutter-interactive-portfolio.git
     cd flutter-interactive-portfolio
     ```
 2.  **Fetch dependencies**:
@@ -86,5 +86,9 @@ device:
     flutter run -d android
     ```
 
-Authored by Youssef Fellah.
-Developed for the Engineering Cycle - Mundiapolis University.
+---
+
+## Author
+
+- **Author:** Youssef Fellah ([ind4x_](https://github.com/ind4x))
+- **Institution:** Mundiapolis University, Engineering Cycle
